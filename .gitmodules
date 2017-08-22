@@ -1,0 +1,3 @@
+[submodule "bioscripts"]
+	path = bioscripts
+	url = https://github.com/thiesgehrmann/bioscripts/
