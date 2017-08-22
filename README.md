@@ -10,3 +10,9 @@ Download the github repository with the following command:
 ```
 
 this also downloads the bioscripts repository which has some required scripts.
+
+## Running
+
+```bash
+  ./analysis.sh
+```
